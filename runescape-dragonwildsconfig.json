@@ -47,7 +47,7 @@
         "Keywords": "admin,password,adminpassword",
         "FieldName": "AdminPassword",
         "InputType": "Password",
-        "ParamFieldName": "/Script/Dominion.DedicatedServerSettings.AdminPassword",
+        "ParamFieldName": "AdminPassword",
         "DefaultValue": "{{newguid()}}",
         "Required": true,
         "EnumValues": {}
